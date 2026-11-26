@@ -1,0 +1,14 @@
+# Allowed tags, one per line. Lines starting with # are ignored.
+# type
+portrait
+full-body
+landscape
+study
+sketch
+fanart
+# style
+painterly
+cel-shaded
+grayscale
+line-art
+ 
